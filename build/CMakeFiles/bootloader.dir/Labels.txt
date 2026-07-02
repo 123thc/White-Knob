@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Users/ccc/Desktop/White_Knob (1)/White_Knob/build/CMakeFiles/bootloader
+C:/Users/ccc/Desktop/White_Knob (1)/White_Knob/build/CMakeFiles/bootloader.rule
+C:/Users/ccc/Desktop/White_Knob (1)/White_Knob/build/CMakeFiles/bootloader-complete.rule
+C:/Users/ccc/Desktop/White_Knob (1)/White_Knob/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Users/ccc/Desktop/White_Knob (1)/White_Knob/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Users/ccc/Desktop/White_Knob (1)/White_Knob/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Users/ccc/Desktop/White_Knob (1)/White_Knob/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Users/ccc/Desktop/White_Knob (1)/White_Knob/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Users/ccc/Desktop/White_Knob (1)/White_Knob/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Users/ccc/Desktop/White_Knob (1)/White_Knob/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

@@ -1,0 +1,1 @@
+GEN_CSRCS += lottie_double_circle.c lottie_process.c lottie_wifi_on.c lottie_loading.c

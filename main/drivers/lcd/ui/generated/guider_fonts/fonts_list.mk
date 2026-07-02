@@ -1,0 +1,1 @@
+GEN_CSRCS += lv_font_AlimamaDaoLiTi_58.c lv_font_montserratMedium_16.c lv_font_AlimamaDaoLiTi_27.c lv_font_AlimamaDaoLiTi_16.c lv_font_AlimamaDaoLiTi_50.c lv_font_AlimamaDaoLiTi_19.c lv_font_AlimamaDaoLiTi_35.c lv_font_AlimamaDaoLiTi_30.c lv_font_AlimamaDaoLiTi_12.c lv_font_montserratMedium_12.c lv_font_AlimamaDaoLiTi_18.c lv_font_AlimamaDaoLiTi_22.c lv_font_AlimamaDaoLiTi_20.c
