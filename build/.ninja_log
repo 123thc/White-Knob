@@ -2321,3 +2321,21 @@
 732	875	8047119283510608	bootloader-prefix/src/bootloader-stamp/bootloader-done	592e66281b3382c0
 732	875	8047119283510608	C:/Users/ccc/Desktop/White_Knob (1)/White_Knob/build/CMakeFiles/bootloader-complete	592e66281b3382c0
 732	875	8047119283510608	C:/Users/ccc/Desktop/White_Knob (1)/White_Knob/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	592e66281b3382c0
+430	808	8047133285270491	esp-idf/main/CMakeFiles/spiffs_html_bin	71bfa45dadf629e8
+430	808	8047133285270491	C:/Users/ccc/Desktop/White_Knob (1)/White_Knob/build/esp-idf/main/CMakeFiles/spiffs_html_bin	71bfa45dadf629e8
+419	914	8047133285170945	esp-idf/esptool_py/CMakeFiles/app_check_size	df408f76ff76fe23
+419	914	8047133285170945	C:/Users/ccc/Desktop/White_Knob (1)/White_Knob/build/esp-idf/esptool_py/CMakeFiles/app_check_size	df408f76ff76fe23
+405	922	8047133285020672	bootloader-prefix/src/bootloader-stamp/bootloader-build	6e190ac6b9cd76d9
+405	922	8047133285020672	bootloader/bootloader.elf	6e190ac6b9cd76d9
+405	922	8047133285020672	bootloader/bootloader.bin	6e190ac6b9cd76d9
+405	922	8047133285020672	bootloader/bootloader.map	6e190ac6b9cd76d9
+405	922	8047133285020672	C:/Users/ccc/Desktop/White_Knob (1)/White_Knob/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	6e190ac6b9cd76d9
+405	922	8047133285020672	C:/Users/ccc/Desktop/White_Knob (1)/White_Knob/build/bootloader/bootloader.elf	6e190ac6b9cd76d9
+405	922	8047133285020672	C:/Users/ccc/Desktop/White_Knob (1)/White_Knob/build/bootloader/bootloader.bin	6e190ac6b9cd76d9
+405	922	8047133285020672	C:/Users/ccc/Desktop/White_Knob (1)/White_Knob/build/bootloader/bootloader.map	6e190ac6b9cd76d9
+924	983	8047133290210256	bootloader-prefix/src/bootloader-stamp/bootloader-install	35f890a0298638bb
+924	983	8047133290210256	C:/Users/ccc/Desktop/White_Knob (1)/White_Knob/build/bootloader-prefix/src/bootloader-stamp/bootloader-install	35f890a0298638bb
+984	1119	8047133290811651	CMakeFiles/bootloader-complete	592e66281b3382c0
+984	1119	8047133290811651	bootloader-prefix/src/bootloader-stamp/bootloader-done	592e66281b3382c0
+984	1119	8047133290811651	C:/Users/ccc/Desktop/White_Knob (1)/White_Knob/build/CMakeFiles/bootloader-complete	592e66281b3382c0
+984	1119	8047133290811651	C:/Users/ccc/Desktop/White_Knob (1)/White_Knob/build/bootloader-prefix/src/bootloader-stamp/bootloader-done	592e66281b3382c0
